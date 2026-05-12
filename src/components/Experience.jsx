@@ -3,7 +3,7 @@ import { Calendar, MapPin, Building, Download } from "lucide-react";
 
 const experiences = [
   {
-    title: "Senior Full Stack Developer",
+    title: "Full Stack Developer",
     company: "Freelancing & Research Project",
     location: "Remote",
     period: "January 2025 - Present",

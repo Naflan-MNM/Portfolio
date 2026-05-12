@@ -115,7 +115,7 @@ function Sidebar({ activeSection, onNavigate, isMobileOpen }) {
 
         {/* Footer */}
         <div className="text-center text-xs text-slate-500 mt-6">
-          © 2025 Naflan Mohammed
+          © 2026 Naflan Mohammed
         </div>
       </div>
     </aside>
